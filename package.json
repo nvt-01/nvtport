@@ -1,7 +1,7 @@
 {
   "name": "react-eslint-starter",
   "version": "0.1.0",
-  "homepage": "https://nvt-01.github.io/nvtport/",
+  "homepage": "https://nvt-01.github.io/nvtport",
   "private": true,
   "dependencies": {
     "aos": "^2.3.4",
